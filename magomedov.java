@@ -8,6 +8,7 @@ public class CellRange
     private  int _max = 0;
 
     public CellRange(int min, int max)
+	_min;
     {
         if(min < 0)     min = 0;
         if(max < min)   max = min;
