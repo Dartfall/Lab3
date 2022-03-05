@@ -52,7 +52,7 @@ public class MiddlePosition
         return new MiddlePosition(_cellPosition, _direction); 
     }
 
-    
+ //2nd commit on files 
     public MiddlePosition next(Direction direct)
     {
         
@@ -92,7 +92,7 @@ public class MiddlePosition
             return _cellPosition.next(direct);
         }
 
-     
+ //3td commit     
         throw new RuntimeException();
         //return null;
     }
