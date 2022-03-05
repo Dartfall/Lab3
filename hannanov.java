@@ -47,7 +47,10 @@ public class Door {
         //return -1;
     }  
     
-    
+
+
+
+//fffffffffffffffffffffffff
     
     private boolean _isOpen = false;
     
