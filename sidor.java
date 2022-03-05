@@ -49,7 +49,7 @@ abstract public class AbstractBattery
 
         return _amountÎfÑharge;
     }
-
+    //00
     public void reduceCharge(int delta)
     {
         
