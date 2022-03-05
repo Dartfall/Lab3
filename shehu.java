@@ -14,7 +14,7 @@ public class GameField {
 	
     public GameField ()
     {
-        setSize(10, 10);
+        setSize(9, 10);
     }
         
     public final void setSize(int width, int height)//comment
@@ -41,7 +41,7 @@ public class GameField {
     {
         if(robot!=null && _robot!=robot) {
             if (_robot != null) {
-                removeRobot();
+                removeRobot(); //robot
             }
 
             _robot = robot;
