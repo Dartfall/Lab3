@@ -1,6 +1,6 @@
 package brokenrobotgame.model.characteristics;
 
-import brokenrobotgame.model.GameField;
+import brokenrobotgame.model.GameField;//vanda 1
 import brokenrobotgame.model.characteristics.AbstractCharacteristic;
 import brokenrobotgame.model.events.RobotActionEvent;
 import brokenrobotgame.model.events.RobotActionListener;
@@ -19,7 +19,7 @@ public class Radiation extends AbstractCharacteristic
     @Override
     public Color drawColor()
     {
-        return new Color(255, 255, 0, 60);
+        return new Color(255, 255, 0, 60);//vanda 3
     }
 
     @Override

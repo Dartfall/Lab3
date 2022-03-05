@@ -1,7 +1,7 @@
 package brokenrobotgame.model;
 
 import brokenrobotgame.model.navigation.CellPosition;
-
+//gt
 abstract public class AbstractBattery
 {
     private boolean _isDestroy = false;     
@@ -11,7 +11,7 @@ abstract public class AbstractBattery
         _amountŒf—harge = 0;
         _isDestroy = true;
     }
-
+    //lt
     private GameField _field;
 
     private int _chargeCapacity = 100;                  
@@ -49,7 +49,7 @@ abstract public class AbstractBattery
 
         return _amountŒf—harge;
     }
-
+    //00
     public void reduceCharge(int delta)
     {
         
@@ -97,7 +97,7 @@ abstract public class AbstractBattery
         {
             success = false;
         }
-        else                                    
+        else       //maga                             
         {
             _position = pos;
             success = true;
