@@ -5,7 +5,7 @@ import brokenrobotgame.model.navigation.CellPosition;
 
 abstract public class AbstractCharacteristic implements CellCharacteristic
 {
-    private GameField _field;
+    private GameField _field; hello
 
     private int value = -1;
 
