@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class CellPosition
 {
-   
+   //new comment again
     private static CellRange _horizontalRange = new CellRange(0, 0);
     private static CellRange _verticalRange = new CellRange(0, 0);
 
