@@ -11,7 +11,7 @@ abstract public class AbstractBattery
         _amountÎfÑharge = 0;
         _isDestroy = true;
     }
-
+    //lt
     private GameField _field;
 
     private int _chargeCapacity = 100;                  
