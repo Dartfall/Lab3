@@ -10,8 +10,8 @@ import java.util.EventObject;
 
 public class Smoke extends AbstractCharacteristic
 {
-    public Smoke (GameField field, int value)   {
-        super(field, value);
+    public Smoke (GameField field, int valu)   {
+        super(field, valu);
     }
 
     @Override
@@ -21,7 +21,7 @@ public class Smoke extends AbstractCharacteristic
 
     @Override
     public String drawName() {
-        return value();
+        return val();
     }
 
     @Override

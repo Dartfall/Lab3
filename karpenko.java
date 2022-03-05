@@ -8,4 +8,8 @@ import java.util.EventListener;
 
 public interface RobotActionListener extends EventListener {
     void robotMadeMove(RobotActionEvent e);
+
+    public static void newAction() { doSmth(); }
+
+    private int doSmth() { return 4; }
 }
