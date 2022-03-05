@@ -73,7 +73,7 @@ public class Direction
     }
 
     @Override
-    public int hashCode() {
+    public int hashCode() { //asdasdasdasdas
         return this._angle;
     }
     
