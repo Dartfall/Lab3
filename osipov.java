@@ -94,7 +94,7 @@ public class MiddlePosition
 
      
         throw new RuntimeException();
-        //return null;
+        //return ;
     }
 
 	public boolean hasCellPosition(Direction direct)
