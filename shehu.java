@@ -52,7 +52,7 @@ public class GameField {
     public boolean removeRobot()
     {
         if(_robot==null)
-            return false;
+            return false; //last change
 
         Robot r = _robot;
         _robot=null;
