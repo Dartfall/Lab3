@@ -37,7 +37,7 @@ public class Direction
     }
   
     public Direction clockwise() { 
-        return new Direction(this._angle-90); 
+        return new Direction(this._angle-90); //asdasdadasd
     }
     
     public Direction anticlockwise() { 
