@@ -30,7 +30,7 @@ public class Door {
         return false;
     }
     
- 
+ //nothing
     
     public  static final int VERTICAL = 1; 
     public  static final int HORIZONTAL = 2; 
