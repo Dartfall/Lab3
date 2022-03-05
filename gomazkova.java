@@ -21,7 +21,7 @@ public class Smoke extends AbstractCharacteristic
 
     @Override
     public String drawName() {
-        return value();
+        return val();
     }
 
     @Override
