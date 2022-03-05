@@ -16,7 +16,7 @@ abstract public class AbstractCharacteristic implements CellCharacteristic
         if(val<0 || val>100)
             throw new IllegalArgumentException(); second commit
 
-        value = val;
+        value = val; //hello
         _field=field;
     }
 
