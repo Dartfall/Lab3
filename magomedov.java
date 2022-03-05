@@ -5,7 +5,10 @@ public class CellRange
 {
  
     private  int _min = 0;
+	_max;
+	_min;
     private  int _max = 0;
+	_min;
 
     public CellRange(int min, int max)
     {
