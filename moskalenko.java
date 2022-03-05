@@ -1,4 +1,4 @@
-package brokenrobotgame.model.navigation;
+package brokenrobotgame.model.navigation; //asdasdadas
 
 public class Direction
 {
@@ -11,7 +11,7 @@ public class Direction
         angle = angle%360;
         if(angle < 0)    angle += 360;
         
-        this._angle = angle;
+        this._angle = angle; //asdasdasdas
     }
     
     
@@ -37,7 +37,7 @@ public class Direction
     }
   
     public Direction clockwise() { 
-        return new Direction(this._angle-90); 
+        return new Direction(this._angle-90); //asdasdadasd
     }
     
     public Direction anticlockwise() { 
@@ -73,7 +73,7 @@ public class Direction
     }
 
     @Override
-    public int hashCode() {
+    public int hashCode() { //asdasdasdasdas
         return this._angle;
     }
     

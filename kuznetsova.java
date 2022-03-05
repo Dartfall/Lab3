@@ -1,10 +1,11 @@
+// new comment
 package brokenrobotgame.model.navigation;
 
 import java.util.HashMap;
 
 public class CellPosition
 {
-   
+   //new comment again
     private static CellRange _horizontalRange = new CellRange(0, 0);
     private static CellRange _verticalRange = new CellRange(0, 0);
 
@@ -107,7 +108,7 @@ public class CellPosition
     }
     
 
-    
+    // last comment
     @Override
     public boolean equals(Object other)
     {
@@ -128,3 +129,4 @@ public class CellPosition
         return false;
     }
 }
+// new comment in the end
