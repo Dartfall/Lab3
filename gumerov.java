@@ -29,7 +29,7 @@ public class Temperature extends AbstractCharacteristic
     @Override
     public void update(EventObject event)
     {
-        if(value()<100)
+        if(value()<300)
             setValue(value()+2);
     }
 
