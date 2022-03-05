@@ -14,6 +14,7 @@ public class CellRange
         if(max < min)   max = min;
         
         _min = min;
+		_max;
         _max = max;
     }
     
