@@ -11,7 +11,7 @@ public class Direction
         angle = angle%360;
         if(angle < 0)    angle += 360;
         
-        this._angle = angle;
+        this._angle = angle; //asdasdasdas
     }
     
     
