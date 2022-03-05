@@ -13,7 +13,7 @@ public class Radiation extends AbstractCharacteristic
 {
     public Radiation(GameField field, int val)
     {
-        super(field, val);
+        super(field, val);//vanda 2
     }
 
     @Override
@@ -40,7 +40,7 @@ public class Radiation extends AbstractCharacteristic
         public void robotMadeMove(RobotActionEvent e)
         {
 
-                update(e);
+                update(e);//naruto
         }
     }
 }

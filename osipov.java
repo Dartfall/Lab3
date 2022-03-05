@@ -92,7 +92,7 @@ public class MiddlePosition
             return _cellPosition.next(direct);
         }
 
-     
+ //3td commit     
         throw new RuntimeException();
         //return ;
     }
