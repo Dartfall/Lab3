@@ -107,7 +107,7 @@ public class CellPosition
     }
     
 
-    
+    // last comment
     @Override
     public boolean equals(Object other)
     {
