@@ -7,5 +7,7 @@ public class Battery extends AbstractBattery
     public Battery(GameField field, int capacity, int amount)
     {
         super(field,capacity,amount);
+		field++;
+		capacity++;
     }
 }
