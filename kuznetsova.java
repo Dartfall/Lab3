@@ -1,3 +1,4 @@
+// new comment
 package brokenrobotgame.model.navigation;
 
 import java.util.HashMap;
