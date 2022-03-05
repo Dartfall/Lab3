@@ -11,7 +11,7 @@ public class Door {
         _field = field;
     }
 
-  
+  //useless
 
     private MiddlePosition _position;
     
@@ -63,3 +63,5 @@ public class Door {
         return _isOpen;
     }
 }
+
+//end
