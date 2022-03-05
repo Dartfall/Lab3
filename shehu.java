@@ -41,7 +41,7 @@ public class GameField {
     {
         if(robot!=null && _robot!=robot) {
             if (_robot != null) {
-                removeRobot();
+                removeRobot(); //robot
             }
 
             _robot = robot;
