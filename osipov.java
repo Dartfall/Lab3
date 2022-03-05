@@ -15,7 +15,7 @@ public class MiddlePosition
         return _cellPosition;
     }
     
-
+// 1st commit on files
     public MiddlePosition(CellPosition cellPos, Direction direct)
     {
         if(!cellPos.isValid())
