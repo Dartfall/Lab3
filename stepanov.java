@@ -8,5 +8,6 @@ public class Battery extends AbstractBattery
     {
         super(field,capacity,amount);
 		field++;
+		capacity++;
     }
 }
