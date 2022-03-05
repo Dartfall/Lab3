@@ -17,7 +17,7 @@ public class GameField {
         setSize(10, 10);
     }
         
-    public final void setSize(int width, int height)
+    public final void setSize(int width, int height)//comment
     {
         CellPosition.setHorizontalRange(1, width);
         CellPosition.setVerticalRange(1, height);
