@@ -1,3 +1,4 @@
+// new comment
 package brokenrobotgame.model.navigation;
 
 import java.util.HashMap;
@@ -128,3 +129,4 @@ public class CellPosition
         return false;
     }
 }
+// new comment in the end
