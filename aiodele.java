@@ -42,7 +42,7 @@ abstract public class AbstractCharacteristic implements CellCharacteristic
         }
         else                                  
         {
-            position = pos;
+            position = pos; //hello
             success = true;
         }
 

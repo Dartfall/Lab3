@@ -11,7 +11,7 @@ abstract public class AbstractBattery
         _amountŒf—harge = 0;
         _isDestroy = true;
     }
-
+    //lt
     private GameField _field;
 
     private int _chargeCapacity = 100;                  
@@ -97,7 +97,7 @@ abstract public class AbstractBattery
         {
             success = false;
         }
-        else                                    
+        else       //maga                             
         {
             _position = pos;
             success = true;
