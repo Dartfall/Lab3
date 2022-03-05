@@ -1,6 +1,6 @@
 package brokenrobotgame.model.characteristics;
 
-import brokenrobotgame.model.GameField;
+import brokenrobotgame.model.GameField;//vanda 1
 import brokenrobotgame.model.characteristics.AbstractCharacteristic;
 import brokenrobotgame.model.events.RobotActionEvent;
 import brokenrobotgame.model.events.RobotActionListener;
