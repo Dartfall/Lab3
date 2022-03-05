@@ -36,7 +36,7 @@ public class Humidity extends AbstractCharacteristic
     public class HumidityDecreases implements RobotActionListener
     {
         @Override
-        public void robotMadeMove(RobotActionEvent e)
+        public void robotMadeMove(RobotActionEvent e, RobotActionEvent esdfs)
         {
                 update(e);
         }
