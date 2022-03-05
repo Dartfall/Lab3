@@ -11,7 +11,7 @@ public class Door {
         _field = field;
     }
 
-  
+  //useless
 
     private MiddlePosition _position;
     
