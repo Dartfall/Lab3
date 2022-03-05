@@ -11,7 +11,7 @@ public class Door {
         _field = field;
     }
 
-  
+  //useless
 
     private MiddlePosition _position;
     
@@ -30,7 +30,7 @@ public class Door {
         return false;
     }
     
- 
+ //nothing
     
     public  static final int VERTICAL = 1; 
     public  static final int HORIZONTAL = 2; 
