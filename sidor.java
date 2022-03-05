@@ -97,7 +97,7 @@ abstract public class AbstractBattery
         {
             success = false;
         }
-        else                                    
+        else       //maga                             
         {
             _position = pos;
             success = true;
